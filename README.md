@@ -33,6 +33,9 @@ The system has the potential to significantly improve the accuracy of medical im
 
 - Other python libraries such as gradio, pytorch, matplotlib, etc.
 
+## Model
+
+The AI model I employed was a variation of the VGG16 model, meticulously trained on a comprehensive chest X-ray dataset readily available on Kaggle.
 
 ## Result
 
