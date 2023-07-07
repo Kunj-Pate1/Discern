@@ -36,6 +36,9 @@ The system has the potential to significantly improve the accuracy of medical im
 
 ## Result
 
+[ UI for input & output ]
+[---][---]
+| ![Image](https://github.com/Kunj-Pate1/Discern/blob/main/output%20imgs/input.png) |
 | Image 1 | Image 2 |
 | --- | --- |
 | ![Image 1](https://i.pinimg.com/736x/db/7b/2f/db7b2fb92c3b09d4e21c5e74b1db8dc4.jpg) | ![Image 2](https://i.pinimg.com/736x/db/7b/2f/db7b2fb92c3b09d4e21c5e74b1db8dc4.jpg) |
